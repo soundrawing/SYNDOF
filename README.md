@@ -16,7 +16,7 @@ This repository contains the official matlab implementation of SYNDOF generation
 
 ![Matlab](https://img.shields.io/badge/matlab-9.3.0-green.svg?style=plastic)
 
-* Download and unzip the synthetic datasets ([Google Drive](https://drive.google.com/open?id=1Tc15GlwA-jr5EoXPwSmz2yG6IhxaK_Ji&authuser=codeslake%40gmail.com&usp=drive_fs) \| [Dropbox](https://www.dropbox.com/s/bymkyss5rtn6avl/synthetic_datasets.zip?dl=1)) under `./data`:
+* Download and unzip the synthetic datasets ([OneDrive](https://onedrive.live.com/download?resid=94530B7E5F49D254%2116358&authkey=!AETJe-m59LJctQM) \| [Dropbox](https://www.dropbox.com/s/bymkyss5rtn6avl/synthetic_datasets.zip?dl=1)) under `./data`:
     ```
     ├── data
     │   ├── synthetic_datasets
